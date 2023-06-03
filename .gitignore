@@ -1,0 +1,10 @@
+*.pdf
+*.log
+*.o
+*.a
+.vscode
+coding-style-reports.log
+mysh
+tester.sh
+tests
+my_test
